@@ -1,0 +1,320 @@
+{
+    "ligas": [{
+        "id": 1,
+        "nombre": "Primera Iberdrola",
+        "cod_pais": "ES"
+    }],
+    "clubs": [{
+            "id": 1,
+            "nombre": "Athletic Club",
+            "imagen": "https://i.ibb.co/VBSNb8p/ath.png",
+            "id_liga": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Atlético de Madrid",
+            "imagen": "https://i.ibb.co/rQ0HmB7/atm.png",
+            "id_liga": 1
+        },
+        {
+            "id": 3,
+            "nombre": "FC Barcelona",
+            "imagen": "https://i.ibb.co/J3wZMHV/fcb.png",
+            "id_liga": 1
+        }, {
+            "id": 5,
+            "nombre": "Levante UD",
+            "imagen": "https://i.ibb.co/QKSWKqg/lud.png",
+            "id_liga": 1
+        },
+        {
+            "id": 6,
+            "nombre": "Madrid CFF",
+            "imagen": "https://i.ibb.co/jZML2r0/mad.png",
+            "id_liga": 1
+        },
+        {
+            "id": 7,
+            "nombre": "Real Betis",
+            "imagen": "https://i.ibb.co/61CsZDg/bet.png",
+            "id_liga": 1
+        },
+        {
+            "id": 8,
+            "nombre": "Rayo Vallecano",
+            "imagen": "https://i.ibb.co/svwsm0f/rayo.png",
+            "id_liga": 1
+        }, {
+            "id": 9,
+            "nombre": "Real Madrid",
+            "imagen": "https://i.ibb.co/t831sKv/rm.png",
+            "id_liga": 1
+        }, {
+            "id": 10,
+            "nombre": "Real Sociedad",
+            "imagen": "https://i.ibb.co/Fhm307F/real.png",
+            "id_liga": 1
+        },
+        {
+            "id": 11,
+            "nombre": "Eibar",
+            "imagen": "https://i.ibb.co/vPZ239h/eibar.png",
+            "id_liga": 1
+        },
+        {
+            "id": 12,
+            "nombre": "Sevilla FC",
+            "imagen": "https://i.ibb.co/hf7L4wm/sev.png",
+            "id_liga": 1
+        },
+        {
+            "id": 13,
+            "nombre": "Sporting de Huelva",
+            "imagen": "https://i.ibb.co/HBxXmBm/spo.png",
+            "id_liga": 1
+        }, {
+            "id": 14,
+            "nombre": "UD Granadilla Tenerife",
+            "imagen": "https://i.ibb.co/PhCZm7n/udt.png",
+            "id_liga": 1
+        }, {
+            "id": 15,
+            "nombre": "Valencia CF",
+            "imagen": "https://i.ibb.co/bBfpRPH/vcf.png",
+            "id_liga": 1
+        }
+    ],
+    "jugadoras": [{
+            "id": 1,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Ainhoa",
+            "posicion": "POR",
+            "pais": "ESP",
+            "dorsal": 1,
+            "valor": 81
+        }, {
+            "id": 2,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "De la nava",
+            "posicion": "POR",
+            "pais": "ESP",
+            "dorsal": 22,
+            "valor": 71
+        }, {
+            "id": 3,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Leguina",
+            "posicion": "POR",
+            "pais": "ESP",
+            "dorsal": 13,
+            "valor": 78
+        }, {
+            "id": 4,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Alvarez",
+            "posicion": "DFC",
+            "pais": "ESP",
+            "dorsal": 5,
+            "valor": 79
+        }, {
+            "id": 5,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Sierra",
+            "posicion": "DFC",
+            "pais": "ESP",
+            "dorsal": 2,
+            "valor": 77
+        }, {
+            "id": 6,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Moraza",
+            "posicion": "DFC",
+            "pais": "ESP",
+            "dorsal": 3,
+            "valor": 78
+        }, {
+            "id": 7,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Garazi",
+            "posicion": "DFC",
+            "pais": "ESP",
+            "dorsal": 4,
+            "valor": 80
+        }, {
+            "id": 8,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Oihane",
+            "posicion": "DFC",
+            "pais": "ESP",
+            "dorsal": 12,
+            "valor": 69
+        }, {
+            "id": 9,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Eunate",
+            "posicion": "DFC",
+            "pais": "ESP",
+            "dorsal": 14,
+            "valor": 81
+        }, {
+            "id": 10,
+            "id_equipo": 1,
+            "img": "https://firebasestorage.googleapis.com/v0/b/fir-5ec22.appspot.com/o/ATH%2FGIMBERT.png?alt=media&token=3655ade2-bf19-409f-bca5-8c2a6bdea675",            
+            "tipoCarta": "NOR",
+            "nombre": "Gimbert",
+            "posicion": "DFC",
+            "pais": "ESP",
+            "dorsal": 21,
+            "valor": 80
+        }, {
+            "id": 11,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Damaris",
+            "posicion": "MC",
+            "pais": "EEUU",
+            "dorsal": 6,
+            "valor": 82
+        }, {
+            "id": 12,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Cirauqui",
+            "posicion": "MC",
+            "pais": "ESP",
+            "dorsal": 8,
+            "valor": 80
+        }, {
+            "id": 13,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Maite",
+            "posicion": "MC",
+            "pais": "ESP",
+            "dorsal": 10,
+            "valor": 75
+        }, {
+            "id": 14,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Ibanez",
+            "posicion": "MC",
+            "pais": "ESP",
+            "dorsal": 11,
+            "valor": 76
+        }, {
+            "id": 15,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Unzue",
+            "posicion": "MC",
+            "pais": "ESP",
+            "dorsal": 16,
+            "valor": 83
+        }, {}, {
+            "id": 16,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Marta",
+            "posicion": "MC",
+            "pais": "ESP",
+            "dorsal": 18,
+            "valor": 81
+        }, {
+            "id": 17,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Valdezate",
+            "posicion": "MC",
+            "pais": "ESP",
+            "dorsal": 26,
+            "valor": 70
+        }, {
+            "id": 18,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Nekane",
+            "posicion": "DC",
+            "pais": "ESP",
+            "dorsal": 7,
+            "valor": 77
+        }, {
+            "id": 19,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Corres",
+            "posicion": "DC",
+            "pais": "ESP",
+            "dorsal": 9,
+            "valor": 79
+        }, {
+            "id": 20,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Azkona",
+            "posicion": "DC",
+            "pais": "ESP",
+            "dorsal": 25,
+            "valor": 78
+        }, {
+            "id": 21,
+            "id_equipo": 1,
+            "img": "https://firebasestorage.googleapis.com/v0/b/fir-5ec22.appspot.com/o/ATH%2FGARC%C3%8DA.png?alt=media&token=46655ecf-2ea7-496a-afe5-d1f78f0b262a",
+            "tipoCarta": "NOR",
+            "nombre": "Garcia",
+            "posicion": "DC",
+            "pais": "ESP",
+            "dorsal": 17,
+            "valor": 84
+        },
+        {
+            "id": 22,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Vazquez",
+            "posicion": "DC",
+            "pais": "ESP",
+            "dorsal": 19,
+            "valor": 81
+        }, {
+            "id": 23,
+            "id_equipo": 1,
+            "img": "",
+            "tipoCarta": "NOR",
+            "nombre": "Leia",
+            "posicion": "DC",
+            "pais": "ESP",
+            "dorsal": 20,
+            "valor": 73
+        }
+    ]
+}
